@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\Anton\DataBase\Data Base Lections\DatBase_Conected\DatBase_Conected\bin\Debug\DatBase_Conected.exe.config
+C:\Users\MSI\Desktop\Anton\DataBase\Data Base Lections\DatBase_Conected\DatBase_Conected\bin\Debug\DatBase_Conected.exe
+C:\Users\MSI\Desktop\Anton\DataBase\Data Base Lections\DatBase_Conected\DatBase_Conected\bin\Debug\DatBase_Conected.pdb
+C:\Users\MSI\Desktop\Anton\DataBase\Data Base Lections\DatBase_Conected\DatBase_Conected\obj\Debug\DatBase_Conected.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\Anton\DataBase\Data Base Lections\DatBase_Conected\DatBase_Conected\obj\Debug\DatBase_Conected.DBForm.resources
+C:\Users\MSI\Desktop\Anton\DataBase\Data Base Lections\DatBase_Conected\DatBase_Conected\obj\Debug\DatBase_Conected.Properties.Resources.resources
+C:\Users\MSI\Desktop\Anton\DataBase\Data Base Lections\DatBase_Conected\DatBase_Conected\obj\Debug\DatBase_Conected.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\Anton\DataBase\Data Base Lections\DatBase_Conected\DatBase_Conected\obj\Debug\DatBase_Conected.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Anton\DataBase\Data Base Lections\DatBase_Conected\DatBase_Conected\obj\Debug\DatBase_Conected.exe
+C:\Users\MSI\Desktop\Anton\DataBase\Data Base Lections\DatBase_Conected\DatBase_Conected\obj\Debug\DatBase_Conected.pdb
+C:\Users\MSI\Desktop\Anton\DataBase\Data Base Lections\DatBase_Conected\DatBase_Conected\obj\Debug\DatBase_Conected.VehicleData.resources
+C:\Users\MSI\Desktop\Anton\DataBase\Data Base Lections\DatBase_Conected\DatBase_Conected\obj\Debug\DatBase_Conected.PathData.resources
+C:\Users\MSI\Desktop\Anton\DataBase\Data Base Lections\DatBase_Conected\DatBase_Conected\obj\Debug\DatBase_Conected.RepairData.resources
+C:\Users\MSI\Desktop\Anton\DataBase\Data Base Lections\DatBase_Conected\DatBase_Conected\obj\Debug\DatBase_Conected.PointData.resources

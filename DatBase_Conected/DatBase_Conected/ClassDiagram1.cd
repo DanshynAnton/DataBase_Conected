@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DatBase_Conected.Utilities">
+    <Position X="3.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Structs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatBase_Conected.DBForm">
+    <Position X="3" Y="6" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ugAJzhlrgCBSEJ4KQK6SEakjMEDSAeQUS8C5BRemg6k=</HashCode>
+      <FileName>DBForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatBase_Conected.PathData">
+    <Position X="12" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAFAAACAOAAAAAACAAAQCAAIJAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PathData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatBase_Conected.RepairData">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAKACCAAAAACEAAQCAAIJAEAAAAAAAQAAACA=</HashCode>
+      <FileName>RepairData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatBase_Conected.VehicleData">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQCIAAAACCCAAAAACSAAAYCAAoJAACAAIAAAAAIMAA=</HashCode>
+      <FileName>VehicleData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="DatBase_Conected.VehDataStruct">
+    <Position X="1.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAACBAACAgAAIBCAAI=</HashCode>
+      <FileName>Structs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DatBase_Conected.RepDataStruct">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAABAAQI=</HashCode>
+      <FileName>Structs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="DatBase_Conected.PathDataStruct">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAEgAAAAAAAAAAgAAABAAAA=</HashCode>
+      <FileName>Structs.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
